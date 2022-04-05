@@ -41,7 +41,7 @@ GEM
       fuzzy_match (~> 2.0.4)
       nap (~> 1.0)
     cocoapods-deintegrate (1.0.4)
-    cocoapods-downloader (1.2.2)
+    cocoapods-downloader (1.6.3)
     cocoapods-plugins (1.0.0)
       nap
     cocoapods-search (1.0.0)
@@ -205,8 +205,10 @@ GEM
       rouge (~> 2.0.7)
     xcpretty-travis-formatter (1.0.0)
       xcpretty (~> 0.2, >= 0.0.7)
+
 PLATFORMS
   ruby
+
 DEPENDENCIES
   cocoapods
   fastlane (= 2.134.0)
