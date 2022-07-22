@@ -187,7 +187,7 @@ GEM
     tty-screen (0.7.0)
     tty-spinner (0.9.1)
       tty-cursor (~> 0.7)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uber (0.1.0)
     unf (0.1.4)
@@ -205,8 +205,10 @@ GEM
       rouge (~> 2.0.7)
     xcpretty-travis-formatter (1.0.0)
       xcpretty (~> 0.2, >= 0.0.7)
+
 PLATFORMS
   ruby
+
 DEPENDENCIES
   cocoapods
   fastlane (= 2.134.0)
